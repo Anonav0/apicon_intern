@@ -11,6 +11,8 @@ import { faUsers } from '@fortawesome/free-solid-svg-icons'
 
 const element = <FontAwesomeIcon icon={faUsers} size="4x" />
 
+
+//Bootstrap and font awesome is used in this project.
 function App() {
   return (
     <div className="App">
