@@ -21,7 +21,7 @@ function App() {
         <Container>
           <Navbar.Toggle/>
           <Navbar.Collapse className="justify-content-end">
-            <Button>Create security group</Button>
+            <Button className="button-shadow">Create security group</Button>
           </Navbar.Collapse>
         </Container>
       </Navbar>
